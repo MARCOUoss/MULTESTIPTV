@@ -1,0 +1,30 @@
+#EXTINF:-1 tvg-logo""group-title="tv aberta",SBT CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
+#EXTINF:-1 tvg-logo""group-title="tv aberta",SBT MARANHÃO
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8?ChannelsON
+#EXTINF:-1 tvg-logo""group-title="tv aberta",TV SUMER
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w1820117447.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",TV CLASSIQUE
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",TVE
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",TV CULTURA PAPR
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?ChannelsON
+#EXTINF:-1 tvg-logo""group-title="tv aberta",REDE VIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",REDE RC DA BA
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8 
+#EXTINF:-1 tvg-logo""group-title="tv aberta", TV AMBIENTAL ES
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",REDE MINAS MG
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",TV DIARIO DO SERTÃO PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1 tvg-logo""group-title="tv aberta",TV ASSEMBLEIA CE
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w591050354.m3u8
+#EXTINF:-1 tvg-logo""group-title="EVANGELICA",SUPER SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?ChannelsON
